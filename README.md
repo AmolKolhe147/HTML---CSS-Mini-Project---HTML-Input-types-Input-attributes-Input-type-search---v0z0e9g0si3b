@@ -1,4 +1,4 @@
-# HTML CSS Project
+# HTML-CSS Project
 
 
 # ACME Photography
